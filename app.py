@@ -17,7 +17,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════
-# ALGORITMOS (Tu lógica original)
+# ALGORITMOS 
 # ══════════════════════════════════════════════
 
 def orden_burbuja(lista):
